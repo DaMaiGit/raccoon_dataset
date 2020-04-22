@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img_train</folder>
+	<filename>140.jpg</filename>
+	<path>/tensorflow/BaiduImageSpider-master/img_train/140.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>book</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>102</xmin>
+			<ymin>3</ymin>
+			<xmax>380</xmax>
+			<ymax>387</ymax>
+		</bndbox>
+	</object>
+</annotation>
